@@ -1,4 +1,5 @@
 # MD-demo
 This is my first github
-journey: study
+journey: study(with MD-Sir)
+
 
